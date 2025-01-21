@@ -5,3 +5,9 @@ Run using: python3 main.py.
 # Tämä on counter-strike 2 bhop ohjelma.
 ## Käytä omalla vastuulla.
 Suorita käyttäen: python3 main.py
+
+Usage information:
+Please wait for the code to load, can take 1-3 minutes.
+
+Käyttö tietoa:
+Ohjelman latautumisessa saattaa kestää 1-3 minuuttia, chillatkaa lobbyissanne.
