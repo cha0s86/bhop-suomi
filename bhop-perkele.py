@@ -146,11 +146,11 @@ class Bhop:
             try:
                 if ctypes.windll.user32.GetAsyncKeyState(0x20):  # Spacebar
                     if not jump:
-                        time.sleep(0.00001)
+                        time.sleep(0.0001)
                         self.pm.write_int(self.force_jump_address, 65537)
                         jump = True
                     else:
-                        time.sleep(0.00001)
+                        time.sleep(0.0001)
                         self.pm.write_int(self.force_jump_address, 256)
                         jump = False
             except Exception as e:
