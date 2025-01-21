@@ -57,7 +57,6 @@ class Utility:
             logging.error(f"{Fore.RED}Ei löytynyt offsettejä.: {e}")
         return None
 
-
     @staticmethod
     def check_for_updates(current_version):
         """Checks for software updates on GitHub."""
