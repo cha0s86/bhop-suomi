@@ -12,4 +12,4 @@ Please wait for the code to load, can take 1-3 minutes.
 Suorita käyttäen: python3 main.py
 
 Tietoa:
-Ohjelman latautumisessa saattaa kestää 1-3 minuuttia, chillatkaa lobbyissanne.
+Ohjelman latautumisessa saattaa kestää 1-3 minuuttia, venatkaa hetki.
